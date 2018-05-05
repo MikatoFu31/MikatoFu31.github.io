@@ -1,0 +1,22 @@
+body{
+    margin:1% 5%;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color:#ff0088;
+    padding:0 2%;
+}
+h3{
+    padding:0 5%;
+}
+p{
+    padding:0 10%;
+    text-align: center;
+}
+a{
+    background-color:#E0E0E0;
+    text-decoration:none;
+    color:#606060;
+}
