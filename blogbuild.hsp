@@ -15,4 +15,4 @@
 	mes "Blog title:"
 	pos 100,0
 	input b_title,256,20
-	mes ""
+	
