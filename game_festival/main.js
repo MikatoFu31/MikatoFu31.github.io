@@ -25,7 +25,7 @@ window.onload = function() {
 
         for(i=0;i<10;i++){
             fruit[i]=new Sprite(32,32);
-            fruit[i].image=game.assets["./img/fruit.PNG"];
+            fruit[i].image=game.assets["./img/fruit.png"];
             fruit[i].visible=false;
             game.rootScene.addChild(fruit[i]);
         }
